@@ -1,0 +1,16 @@
+.fondo-cabecera {
+	background-color: orange;
+}
+
+.label {
+    /* Para asegurarse que todos los labels tienen el mismo tamaño y están alineados correctamente */
+    dth: 90px;
+    text-align:isplay: inline-block;
+    wid right;
+}
+
+.fondo-content {
+	background-color:blue;
+}
+
+
